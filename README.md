@@ -13,19 +13,19 @@ In each folder there is a `run.sh` script, just run that. The script will build 
 
 Inside chatgpt-roberta-detector folder
 ```bash
-python run.sh
+$ ./run.sh
 ```
 
 Inside openai-reberta-detector folder
 
 This runs the base version
 ```bash
-python run-base.sh
+$ ./run-base.sh
 ```
 
 This runs the large version
 ```bash
-python run-large.sh
+$ ./run-large.sh
 ```
 
 ## Dependencies
