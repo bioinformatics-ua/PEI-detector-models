@@ -32,3 +32,5 @@ $ ./run-large.sh
 
 The `openai-roberta-detector` only works with python3.7, so python3.7 must be installed!!! (This is a hard requirement due to the transformer library)
 The `chatgpt-roberta-detector` works with the latest version of the required libraries, so it should be good to run.
+
+For both models, I am creating virtual-environments, so it is required to have the package python-venv installed.
